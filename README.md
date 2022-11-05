@@ -6,7 +6,7 @@ Hello, I am going to talk about the Fraazo.com clone, a website that we built up
 
 S. Vijayprasad,
 Shashank Kumar,
-Me: Alok Kumar Das.
+Alok Kumar Das.
 
 Original website link : https://fraazo.com/
 
